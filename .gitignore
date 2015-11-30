@@ -1,2 +1,4 @@
 ios_arm/rev_eng_ios
 ios_arm/rev_eng_ios.s
+osx_x64/rev_eng
+osx_x64/rev_eng.s
